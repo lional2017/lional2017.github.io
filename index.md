@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+### 基本信息
+#### 姓名 ####
+#### 学历 ####
+#### 学校 ####
+#### 邮箱 ####
 
-You can use the [editor on GitHub](https://github.com/lional2017/lional2017.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### 程序人生
+* 2017进入软件工程系学习
+* 期间学习了web开发的基本技术，开发过一些小型的MIS系统
+* 曾经涉猎过一些机器学习算法，编写过一些简单的具有数据分析功能的模块
+* 曾投入大量精力学习过一些基本算法，参加过蓝桥杯程序设计大赛等程序设计竞赛，获得一些奖项
+* 在牛客、poj、zoj、leetcode、洛谷等oj平台上有过刷题经历，其中在自己的努力思考与学习他人的基础上leetcode上在通过300+个题目，在洛谷上也有通过100+个题目的记录
+* 参加过诸如中国软件杯、互联网+设计大赛等比赛，但是成绩不太理想。。。
+* P.S.:有数学方面的业余爱好，曾经拿到过河北大学生数学竞赛和全国大学生数学竞赛的一等奖，而且作为小组中程序员身份参加全国大学生数学建模大赛，比赛过程中为解题设计了大量的算法模型并亲自实现，主要是基于马尔可夫链产生随机解，在模拟退火算法求出可行解的基础上，对流程条件进行限定下的贪心枚举，最终获得全国一等奖。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lional2017/lional2017.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 最新动态
+* 考研狗辛苦复习中，复习英语真的好累。。。
